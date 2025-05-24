@@ -2,11 +2,10 @@
 Image-captioning Web Application based on Microsoft GIT-BASE-COCO (GenerativeImage2Text) model
 
 # Image Captioning with GIT-BASE-COCO
-
-![Demo Screenshot](https://drive.google.com/file/d/18ixpXCXFbkjJ-aHrUYM3dQEnDrrahUrh/view?usp=sharing) 
-*(Replace with actual screenshot)*
-
 An end-to-end application that generates descriptive captions for images using Microsoft's GIT (GenerativeImage2Text) model fine-tuned on the COCO dataset.
+![Demo Screenshot](https://github.com/tmechouma/image-captioning-app/blob/main/captioning-image-ms.png) 
+
+
 
 ## Features
 
@@ -79,9 +78,9 @@ Before you begin, ensure you have met the following requirements:
    │   └── app.py                # Flask application
    ├── frontend/
    │   ├── index.html            # Main application page
-   │   └──static/                # Static assets (CSS, JS, images)
+   │   └── static/               # Static assets (CSS, JS, images)
    ├── requirements.txt          # Python dependencies
-   └── README.md                 # Main project documentation
+   └── README.md                 # Main project documentation    ```
 
 
 
