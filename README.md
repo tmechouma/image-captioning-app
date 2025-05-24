@@ -77,8 +77,7 @@ Before you begin, ensure you have met the following requirements:
    ├── backend/
    │   └── app.py                # Flask application
    ├── frontend/
-   │   ├── index.html            # Main application page
-   │   └── static/               # Static assets (CSS, JS, images)
+   │   └── index.html            # Main application page
    ├── requirements.txt          # Python dependencies
    └── README.md                 # Main project documentation    ```
 
