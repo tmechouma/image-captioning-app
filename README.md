@@ -20,7 +20,6 @@ An end-to-end application that generates descriptive captions for images using M
 ### Backend
 - **Python** with **Flask** web framework
 - **Hugging Face Transformers** for the GIT-BASE-COCO model
-- REST API architecture
 - CORS support for frontend integration
 
 ### Frontend
@@ -35,8 +34,7 @@ An end-to-end application that generates descriptive captions for images using M
 Before you begin, ensure you have met the following requirements:
 
 - Python 3.8+
-- Node.js (for frontend development)
-- Git
+- 
 - Pip package manager
 
 ## Installation
